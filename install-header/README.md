@@ -8,7 +8,7 @@ git clone git@github.com:42Paris/42header.git header
 ./header/set_header.sh
 ```
 
-- Depende de la config en zsh o bash
+- Depende de la config que tengas: zsh o bash
 
 ```bash
 vim ~/.zshrc
