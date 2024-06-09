@@ -8,12 +8,15 @@ git clone git@github.com:42Paris/42header.git header
 ./header/set_header.sh
 ```
 
+- Depende de la config en zsh o bash
+
 ```bash
 vim ~/.zshrc
-
-vim ~/.bashrc
 ```
 
+```bash
+vim ~/.bashrc
+```
 
 ```bash
 USER='your_user'
