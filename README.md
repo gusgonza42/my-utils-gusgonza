@@ -1,4 +1,4 @@
-# My Utils
+# My Utils 🛟
 
 This repository contains configurations and utilities to customize your development environment.
 
