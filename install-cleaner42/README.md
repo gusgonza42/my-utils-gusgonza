@@ -1,7 +1,7 @@
 # Install Cleaner 42
 
 ```bash
-git clone  git@github.com:ombhd/Cleaner_42.git cleaner42
+git clone  https://github.com/ombhd/Cleaner_42.git cleaner42
 ```
 
 ```bash
