@@ -1,7 +1,7 @@
 # Install Header 42
 
 ```bash
-git clone git@github.com:42Paris/42header.git header
+git clone https://github.com/42Paris/42header.git header
 ```
 
 ```bash
