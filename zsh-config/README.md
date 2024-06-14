@@ -32,9 +32,9 @@ Para configurar tu archivo `.zshrc` con alias y variables de entorno, puedes seg
     alias czsh='cat ~/.zshrc'
     
     # Variables de entorno
-    USER='user-name'
+    USER='yow_user'
     export USER
-    MAIL='user-name@student.42bcn.com'
+    MAIL='yow_user@student.42barcel'
     export MAIL
     ```
 
