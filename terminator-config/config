@@ -1,0 +1,21 @@
+[global_config]
+  hide_from_taskbar = True
+  enabled_plugins = WindowTitle, ActivityWatch, System Bell, TerminalShot, LaunchpadCodeURLHandler, APTURLHandler, LaunchpadBugURLHandler
+[keybindings]
+[profiles]
+  [[default]]
+    cursor_shape = ibeam
+    cursor_color = "#2eec42"
+    cursor_color_fg = False
+    show_titlebar = False
+    scrollbar_position = hidden
+    disable_mousewheel_zoom = True
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
