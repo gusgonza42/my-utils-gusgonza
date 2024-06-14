@@ -21,8 +21,8 @@
 > [!WARNING]
 > Es importante hacer logout de la sesión para aplicar los cambios.
 
-	
-	Abre el terminal, click derecho y tendras la opcion de `Themes` y podrás previsualizar antes de instalar.
+
+Abre el terminal, click derecho y tendras la opcion de `Themes` y podrás previsualizar antes de instalar.
 
 > [!NOTE]
 > Para mas información visita [EliverLara](https://github.com/EliverLara/terminator-themes/tree/master).
