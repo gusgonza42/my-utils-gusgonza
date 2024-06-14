@@ -10,7 +10,7 @@
 
 - Si la version de Terminator es >= 1.9
 	```bash
-	mkdir -p ~/.config/terminator/plugins
+	 wget https://git.io/v5Zww -O $HOME"/.config/terminator/plugins/terminator-themes.py"
 	```
 
 - Para activar el pluging:
