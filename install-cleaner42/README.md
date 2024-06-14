@@ -15,11 +15,15 @@ Actualiza el cleaner
 cclean update
 ```
 
+> [!CAUTION]
+> A veces al usar el comando cclean no vaya, instala nuevamente el script.
+
+
 - Puedes usarlo en cualquier directorio
 
 ```bash
 cclean
 ```
 
-> [!CAUTION]
-> A veces al usar el comando cclean no vaya, instala nuevamente el script.
+> [!NOTE]
+> Para mas info visita [Ombhd](https://github.com/ombhd/Cleaner_42)
