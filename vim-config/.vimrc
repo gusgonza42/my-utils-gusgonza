@@ -47,7 +47,7 @@ set showcmd
 set conceallevel=1
 set shortmess+=c
 set formatoptions-=cro
-
+set laststatus=2
 " Configuraciones de manejo de errores y archivos
 set noerrorbells
 set visualbell t_vb=
