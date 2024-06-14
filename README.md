@@ -1,4 +1,4 @@
-# My Utils 🛟
+# Yow Utils 🛟
 
 Este repositorio contiene configuraciones y utilidades para personalizar tu entorno de desarrollo. A continuación se describe brevemente cada sección, con enlaces a sus README específicos para obtener más detalles.
 
