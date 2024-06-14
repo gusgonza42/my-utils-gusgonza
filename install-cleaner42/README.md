@@ -3,7 +3,7 @@
 ```bash
 git clone  https://github.com/ombhd/Cleaner_42.git cleaner42
 ```
-Entra en la carpeta `cd cleaner 42` y ejecuta el comando:
+Entra en la carpeta `cd cleaner42` y ejecuta el comando:
 
 ```bash
 ./CleanerInstaller.sh
