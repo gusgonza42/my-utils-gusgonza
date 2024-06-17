@@ -1,7 +1,7 @@
 # Install VSC 42BCN
 
 ```bash
-git clone  https://github.com/ombhd/Cleaner_42.git cleaner42
+https://drive.google.com/file/d/1DyKHlKF7pdxewMFjnCrVsbPBSuSjX_i_/view?usp=sharing
 ```
 - Desde la carpeta `Downloads` y se descomprime:
 
