@@ -1,8 +1,12 @@
 # Install VSC 42BCN
 
-```bash
-https://drive.google.com/file/d/1DyKHlKF7pdxewMFjnCrVsbPBSuSjX_i_/view?usp=sharing
-```
+<div align="center">
+
+[VSC-LINK](https://drive.google.com/file/d/1DyKHlKF7pdxewMFjnCrVsbPBSuSjX_i_/view?usp=sharing)
+
+</div>
+- - -
+
 - Desde la carpeta `Downloads` y se descomprime:
 
 ```bash
