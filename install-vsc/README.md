@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[VSC-LINK](https://drive.google.com/file/d/1DyKHlKF7pdxewMFjnCrVsbPBSuSjX_i_/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1DyKHlKF7pdxewMFjnCrVsbPBSuSjX_i_/view?usp=sharing" target="_blank">VSC-LINK</a>
 
 </div>
 - - -
