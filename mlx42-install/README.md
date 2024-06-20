@@ -1,7 +1,3 @@
-Perfecto, con el enlace proporcionado puedo ver el contenido del repositorio `MLX42` de Codam Coding College. Para integrar `mlx42` en tu proyecto utilizando este repositorio como referencia, podrías estructurar tu README de la siguiente manera:
-
----
-
 # Integración de mlx42 en tu proyecto
 
 Este README te guiará a través de los pasos necesarios para integrar `mlx42` en tu proyecto utilizando el repositorio oficial de Codam Coding College.
@@ -44,11 +40,3 @@ mlx42 --opciones
 ## Documentación Adicional
 
 Para obtener más detalles sobre `mlx42`, consulta la documentación oficial en el [repositorio MLX42 en GitHub](https://github.com/codam-coding-college/MLX42).
-
-## Contribución y Soporte
-
-Si encuentras algún problema o tienes preguntas sobre la integración de `mlx42`, no dudes en abrir un issue en el repositorio `MLX42` de Codam Coding College.
-
----
-
-Este ejemplo de README está adaptado para utilizar el repositorio `MLX42` como referencia para integrar `mlx42` en tu proyecto. Asegúrate de revisar la documentación específica dentro del repositorio clonado para detalles más precisos sobre la configuración y uso de `mlx42` según los estándares de Codam Coding College.
